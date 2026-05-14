@@ -40,5 +40,8 @@ Os contests realizados podem ser atestados na seção submissions do meu perfil 
 
 - Codeforces Round 1096 (Div. 3) + upsolving
     * Total: 02h30 + 01h00 = 03h30
+    
+- Codeforces Round 1059 (Div. 3) + upsolving
+    * Total: 02h15 + 01h00 = 03h15
 
-# Total de horas atualmente: 36 horas e 15 minutos
+# Total de horas atualmente: 39 horas e 30 minutos
