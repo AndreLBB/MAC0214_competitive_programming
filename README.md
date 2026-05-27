@@ -16,7 +16,12 @@ Os contests realizados podem ser atestados na seção submissions do meu perfil 
 
 - Lista 3 - Programação dinâmica
     - 3h
+    
+- Lista 4 (propria) - Two pointers
+    - 6h
 
+- Lista 5 (propria) - Busca Binária
+    - 6h
 
 ## Contests e upsolving feitos:
 
@@ -44,4 +49,4 @@ Os contests realizados podem ser atestados na seção submissions do meu perfil 
 - Codeforces Round 1059 (Div. 3) + upsolving
     * Total: 02h15 + 01h00 = 03h15
 
-# Total de horas atualmente: 39 horas e 30 minutos
+# Total de horas atualmente: 51 horas e 30 minutos
