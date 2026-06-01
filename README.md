@@ -29,6 +29,10 @@ Os contests realizados podem ser atestados na seção submissions do meu perfil 
 - Lista 7 (propria) - Dijkstra + BFS + Bellman-Ford
     - 8h
 
+- Lista 8 (propria) - Monotonic Stack
+    - 3h
+
+
 ## Contests e upsolving feitos:
 
 - Codeforces Round 1074 (Div. 4) + upsolving
@@ -55,4 +59,4 @@ Os contests realizados podem ser atestados na seção submissions do meu perfil 
 - Codeforces Round 1059 (Div. 3) + upsolving
     * Total: 02h15 + 01h00 = 03h15
 
-# Total de horas atualmente: 65 horas e 30 minutos
+# Total de horas atualmente: 68 horas e 30 minutos
