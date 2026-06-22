@@ -41,6 +41,9 @@ Os contests realizados podem ser atestados na seção submissions do meu perfil 
 - Lista 11 - Teoria dos Números
     - 4h
 
+- Lista 12 - Combinatória
+    - 5h
+
 ## Contests e upsolving feitos:
 
 - Codeforces Round 1074 (Div. 4) + upsolving
@@ -67,4 +70,4 @@ Os contests realizados podem ser atestados na seção submissions do meu perfil 
 - Codeforces Round 1059 (Div. 3) + upsolving
     * Total: 02h15 + 01h00 = 03h15
 
-# Total de horas atualmente: 82 horas e 30 minutos
+# Total de horas atualmente: 87 horas e 30 minutos
