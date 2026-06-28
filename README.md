@@ -44,6 +44,9 @@ Os contests realizados podem ser atestados na seção submissions do meu perfil 
 - Lista 12 - Combinatória
     - 5h
 
+- Lista 13 - DSU e Kruskal
+    - 3h
+
 ## Contests e upsolving feitos:
 
 - Codeforces Round 1074 (Div. 4) + upsolving
@@ -70,4 +73,4 @@ Os contests realizados podem ser atestados na seção submissions do meu perfil 
 - Codeforces Round 1059 (Div. 3) + upsolving
     * Total: 02h15 + 01h00 = 03h15
 
-# Total de horas atualmente: 87 horas e 30 minutos
+# Total de horas atualmente: 90 horas e 30 minutos
